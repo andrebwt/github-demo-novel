@@ -7,3 +7,4 @@ Daisy
 Nick
 Andy B 
 
+We need to add a new character called Dave.
